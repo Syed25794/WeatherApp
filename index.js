@@ -2,7 +2,7 @@ async function getData(){
     let city=document.querySelector("input").value;
     async function getLatLog(){
         try{
-            let result= await fetch(`http://api.positionstack.com/v1/forward?access_key=b09a88bb2b8e0b605dad692bfaf20c06&query=${city}`);
+            let result= await fetch(`https://api.positionstack.com/v1/forward?access_key=b09a88bb2b8e0b605dad692bfaf20c06&query=${city}`);
             let data= await result.json();
             var lat=(data.data[0].latitude);
             var log=(data.data[0].longitude);
