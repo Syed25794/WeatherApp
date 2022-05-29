@@ -1,6 +1,6 @@
 # WeatherApp
 It is an assignment given to get the weather data of whole week of any city in the world.
-##Features -:
+## Features -:
 1.It is showing the data of every day of week with minimum and maximum temperature.
 2.It is also telling the weather description.
 3.The appropriate icon for the weather of that day.
