@@ -1,0 +1,33 @@
+
+input{
+    padding: 10px 30px 10px 30px;
+    margin-left: 400px;
+}
+button{
+    padding: 5px 20px 5px 20px;
+    margin: 10px 0px 0px 465px;
+}
+#container{
+    display:flex;
+    margin: 10px;
+    padding: 10px 0px 10px 0px;
+    border-radius: 10px;
+}
+#container > div{
+    width:120px;
+    height: 200px;
+    margin-left: 8px;
+    border: 1px solid white;
+    text-align: center;
+    background-color:black;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+img{
+    margin-top: -35px;
+}
+body{
+    background-color: aqua;
+}
