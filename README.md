@@ -11,9 +11,9 @@ It is an assignment given to get the weather data of whole week of any city in t
 3.After getting information. We are showing it on browser.
 
 ## Language and Tools -:
-1.HTML 
-2.CSS 
-3.JavaScript
+### 1.HTML 
+### 2.CSS 
+### 3.JavaScript
 ![htmlcssjs](https://user-images.githubusercontent.com/97451891/170852854-99a910cf-7952-43d6-9787-6ec13662e477.png)
 
 
