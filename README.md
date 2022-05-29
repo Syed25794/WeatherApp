@@ -11,9 +11,10 @@ Working -:
 3.After getting information. We are showing it on browser.
 
 Language and Tools -:
-![html5-icon-5](https://user-images.githubusercontent.com/97451891/170852807-fda5e893-b871-4d7c-b7f8-c3e4a97461bb.png)
-![css-icon-png-0](https://user-images.githubusercontent.com/97451891/170852810-fa3de546-2194-44d6-aa9c-861cdfb1baae.jpg)
-![JS Icon](https://user-images.githubusercontent.com/97451891/170852817-d684ccfb-cc43-4fd9-a6ff-890bb479c1a7.png)
+1.HTML 
+2.CSS 
+3.JavaScript
+![htmlcssjs](https://user-images.githubusercontent.com/97451891/170852854-99a910cf-7952-43d6-9787-6ec13662e477.png)
 
 
 ![Screenshot (1585)](https://user-images.githubusercontent.com/97451891/170852532-bbd2733b-0301-4057-91ff-f866af0c28a1.png)
