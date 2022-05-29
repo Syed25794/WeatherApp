@@ -2,10 +2,11 @@ async function getData(){
     let city=document.querySelector("input").value;
     async function getLatLog(){
         try{
-            let result= await fetch(`https://api.positionstack.com/v1/forward?access_key=b09a88bb2b8e0b605dad692bfaf20c06&query=${city}`);
+            let result= await fetch(`http://api.positionstack.com/v1/forward?access_key=b09a88bb2b8e0b605dad692bfaf20c06&query=${city}`);
             let data= await result.json();
             var lat=(data.data[0].latitude);
             var log=(data.data[0].longitude);
+            console.log(lat,log);
             try{
                 let res= await fetch(`https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${log}&exclude=current,minutely,hourly,alerts&appid=87f4690bd1153a0cf93b19249bae9f87&units=metric`);
                 let data =await res.json();
